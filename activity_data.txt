@@ -1,0 +1,4 @@
+id,name,date,venue,price,totalTickets,remainingTickets
+1,Concert A,2025-06-01,Grand Theater,100.00,100,100
+2,Theater B,2025-06-05,City Hall,80.00,200,200
+3,Opera C,2025-06-10,National Center,120.00,150,150

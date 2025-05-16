@@ -1,0 +1,44 @@
+showName,showDate,seatNumber,price,customerID
+Concert A,2025-06-01,Row1-Seat1,100.00,1
+Concert A,2025-06-01,Row1-Seat2,100.00,1
+Concert A,2025-06-01,Row1-Seat3,100.00,1
+Opera C,2025-06-10,Row1-Seat1,120.00,1
+Opera C,2025-06-10,Row1-Seat2,120.00,1
+Jazz Night,2025-07-15,Row1-Seat1,75.00,1
+Jazz Night,2025-07-15,Row1-Seat2,75.00,1
+ComputerRoom,2077-01-01,Row190747-Seat6,114514.00,2430026063
+ComputerRoom,2077-01-01,Row190747-Seat7,114514.00,2430026063
+Example For Delete,1111-11-11,Row1-Seat1,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat2,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat3,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat4,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat5,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat6,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat7,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat8,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat9,111.11,135790
+Example For Delete,1111-11-11,Row1-Seat10,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat1,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat2,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat3,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat4,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat5,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat6,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat7,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat8,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat9,111.11,135790
+Example For Delete,1111-11-11,Row2-Seat10,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat1,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat2,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat3,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat4,111.11,2430026063
+Example For Delete,1111-11-11,Row3-Seat5,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat6,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat7,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat8,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat9,111.11,135790
+Example For Delete,1111-11-11,Row3-Seat10,111.11,135790
+Example For Delete,1111-11-11,Row4-Seat1,111.11,135790
+Example For Delete,1111-11-11,Row4-Seat2,111.11,135790
+Example For Delete,1111-11-11,Row4-Seat3,111.11,135790
+Example For Delete,1111-11-11,Row4-Seat4,111.11,135790

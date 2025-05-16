@@ -1,0 +1,5 @@
+id,name,date,venue,price,totalTickets,remainingTickets,comments
+1,Concert A,2025-06-01,Grand Theater,100.00,100,97,
+2,ComputerRoom,2077-01-01,T8-303,114514.00,1919810,12343,hdz: 666|
+3,Opera C,2025-06-10,National Center,120.00,150,148,
+4,Example For Delete,1111-11-11,qwef,111.11,111,77,hdz: it is used for delete|qwertyuiop: yes delete it|
